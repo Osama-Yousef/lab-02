@@ -1,0 +1,63 @@
+header{
+    text-align: center;
+    
+}
+
+div#photo-template {
+    display: none;
+}
+
+div{
+    float: right;
+    width: 250px;
+    height: 300px;
+    border: 3px solid rgb(201, 9, 9);
+    text-align: center;
+    border-radius: 50px;
+    margin: 10px;
+   }
+
+   h1 {
+    margin-top: 50px;
+    font-size: 60px;
+    font-family: fantasy;
+    color: cornsilk;
+}
+
+    #choice {
+        margin: 50px 500px 50px 500px;
+        height: 50px;
+        width: 300px;
+       text-align: center;
+        font-size: x-large;
+        color: gray;
+        font-family: sans-serif;
+        background-color: lightblue;
+    }
+
+p,h2{
+    text-align: center;
+    font-size: large;
+padding: 20px;
+}
+div{
+    padding: 30px;
+    
+}
+div p{
+    text-align: center;
+    
+}
+div h2{
+    text-align: center;
+    font: bold;
+    font-size: large;
+    
+}
+
+footer {
+    float: right;
+    margin-right: 560px;
+    padding: 50px;
+    font-size: x-large;
+}
